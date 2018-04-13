@@ -4,10 +4,11 @@
 @import url(https://fonts.googleapis.com/css?family=Courgette)
 
 * { 
-  box-sizing: border-box;
+  
   padding: 0;
   margin: 0;
-}
+}s
+box-sizing: border-box;
 
 /*Prevent jumping vertical scroll bar*/
 html {
